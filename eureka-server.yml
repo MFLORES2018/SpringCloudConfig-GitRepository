@@ -8,4 +8,4 @@ eureka:
     fetchRegistry: false
     serviceUrl: http//localhost:8761/eureka
 server:
-waitTimeInMsWhenSyncEmpty:0      #wait time for subsequent sync
+  waitTimeInMsWhenSyncEmpty:0      #wait time for subsequent sync
